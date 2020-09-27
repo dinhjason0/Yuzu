@@ -1,0 +1,72 @@
+{
+    "Database": {
+        "Meta": {
+            "type": "player_data",
+            "player_count": 1
+        },
+        "Player": {
+            "154662042513440768": {
+                "Name": "è",
+                "HP": 10,
+                "STR": 1,
+                "DEX": 1,
+                "SPD": 1,
+                "MPE": 1,
+                "HIT": 5,
+                "Inventory": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                "Favorites": []
+            }
+        }
+    }
+}
